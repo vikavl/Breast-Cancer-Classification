@@ -46,3 +46,6 @@ The lesions within the images may also be classified into specific categories:
 The dataset contains **hundreds of mammogram images**, and it is large enough to support deep learning experiments. For example, some datasets have over **1,000 annotated mammogram images**. Each image typically contains multiple **regions of interest (ROIs)**.
 
 ---
+
+
+[First presentation](https://www.canva.com/design/DAGXZiCWPoc/cath5WfYAhmHoQPtfPV4dQ/edit?utm_content=DAGXZiCWPoc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
