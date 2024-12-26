@@ -1,0 +1,11 @@
+- Basic introduction of our data, plan and goal
+- Data Understanding: our finding respect to basic kaggle users regarding problem of the dataset
+- Data Cleaning: how we made the dirty data into clean one, so all the process @Manu did
+- Data Merging: More info regarding the query provided and how they let us extrapolate all the needed data in the right format
+- Pre Processing: all the @Vika step to transform basic mammograph into highlighted pictures on our main problem (cancer). Description of all the steps and a lot of pic to make the process more clear
+- 3 Pre Made models: explanation of how they were implemented and the diff about each model ? why one perform better than the other? deeper inside and some thought about future work about how to choose pre made model 
+- CNN from scratch: How we build the model, tecniques used and why
+- Intermeediate layer to Intermediate df: how we did and how can be usefull for future use
+- Boosting and embedding methods: Description of the tuning process and how each method work. Finally a focus on embedding and GridSearchCV
+- Comparison of results. We need to chose the plot who provide the most meaningfull information nonetheless the space we have avaible for our report
+- Conclusion? Like what we learned and so on, some comparison with previous analysis we are gonna link and how are study can help the scientific research 
