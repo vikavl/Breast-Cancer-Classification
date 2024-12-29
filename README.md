@@ -24,10 +24,7 @@ The CBIS-DDSM dataset is a curated subset of the **Digital Database for Screenin
 ├── Comparison.ipynb:                         Custom CNN and boosting method application with comparisons.
 ├── DenseNet121.ipynb:                        Implementation of DenseNet121 model for classification tasks.
 ├── EfficientNet-b4.ipynb:                    Implementation of EfficientNet-b4 model for classification tasks.
-├── layer-analysis-densenet.ipynb:            Layer-wise analysis of DenseNet model.
-├── layer-analysis-densenet-2.ipynb:          Continuation of DenseNet layer analysis with additional insights.
 ├── layer-analysis-densenet finale.ipynb:     Finalized layer analysis of DenseNet for results interpretation.
-├── layer-analysis-efficientnet.ipynb:        Layer-wise analysis of EfficientNet model.
 ├── planning materials/:                      Folder containing planning resources for the project.
 ├── Breast Cancer Presentation.pdf:           Presentation summarizing the project methodology and results.
 ├── README.md:                                Project documentation and overview.
